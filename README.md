@@ -4,14 +4,12 @@ sample video
 
 Avoid The Virus
 
+![logo](https://user-images.githubusercontent.com/73186447/96866843-c31e8b80-1420-11eb-90f7-a5fd120d4a5b.png)
+
 
 Project Description
 This game design document describes the Virus that you need to avoid. This game is good for 13+ yrs old, it was just avoiding the virus like in 2020 that we should avoid the virus.
 
-Characters
-Bob is the main character in this game. These games are enjoyable because it will keep running and running by not catching the virus. This game will keep running and jumping..
-●	Person will run and jump the virus.
-●	Virus that floats.
 
 Story
 This person in this game is jumping the virus to avoid the virus and it has time on how long he can run and jump. So once he gets attached to the virus he will lose.
@@ -54,6 +52,20 @@ c.	Trash anywhere
 d.	Clouds
 4. Others
 e.	Dirt
+
+Background
+
+![background](https://user-images.githubusercontent.com/73186447/96866867-cb76c680-1420-11eb-8ef0-ce8ce17bc3e5.png)
+
+
+Ground 
+
+![ground](https://user-images.githubusercontent.com/73186447/96866882-d16ca780-1420-11eb-81ac-538928a7fbae.png)
+
+Shield
+
+![shield](https://user-images.githubusercontent.com/73186447/96866911-dcbfd300-1420-11eb-91cf-75ec6e6890a2.png)
+
 
 Demographics
 	The target of this game are 13 – 50 yrs old and in any gender that can play this game and any country. 
