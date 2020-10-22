@@ -6,6 +6,10 @@ Avoid The Virus
 
 ![logo](https://user-images.githubusercontent.com/73186447/96866843-c31e8b80-1420-11eb-90f7-a5fd120d4a5b.png)
 
+Characters
+
+●Bob is the main character in this game. These games are enjoyable because it will keep running and running by not catching the virus. This game will keep running and jumping
+
 
 Project Description
 This game design document describes the Virus that you need to avoid. This game is good for 13+ yrs old, it was just avoiding the virus like in 2020 that we should avoid the virus.
