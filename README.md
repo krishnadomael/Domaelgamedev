@@ -8,7 +8,14 @@ Avoid The Virus
 
 Characters
 
-●Bob is the main character in this game. These games are enjoyable because it will keep running and running by not catching the virus. This game will keep running and jumping
+Bob is the main character in this game. These games are enjoyable because it will keep running and running by not catching the virus. This game will keep running and jumping
+
+●Person will run and jump the virus
+![run1](https://user-images.githubusercontent.com/73186447/96866981-f95c0b00-1420-11eb-91b2-47ff9e4c0f7d.png)
+
+
+●Virus that floats
+![VIRUS](https://user-images.githubusercontent.com/73186447/96866925-e0ebf080-1420-11eb-8103-02b83930251b.png)
 
 
 Project Description
@@ -21,26 +28,28 @@ Theme
 This is a game about naughty and hardship. These are the moments where he’s being a naughty by not following the instructions. It also has lessons that you will get in here.
 Gameplay
 This is a game about naughty and hardship. These are the moments where he’s being a naughty by not following the instructions. It also has lessons that you will get in here.
-●	Goals: How long you will avoid the virus.
-●	User Skills: Tap the arrow and run and jump.
-●	Progression and Challenger: Easy to play because it will keep on running and jump until he gets into the safe place.
-●	Losing: The losing conditions are when you get attached to the virus.
+●Goals: How long you will avoid the virus.
+●User Skills: Tap the arrow and run and jump.
+●Progression and Challenger: Easy to play because it will keep on running and jump until he gets into the safe place.
+●Losing: The losing conditions are when you get attached to the virus.
+
 Art Style
-	This art style looks like a zombie tsunami place. Everything is colorful. After that he will get into the safe house and he will tell everybody to wear those safety things, the background will be much colorful and clear.
+This art style looks like a zombie tsunami place. Everything is colorful. After that he will get into the safe house and he will tell everybody to wear those safety 
+things, the background will be much colorful and clear.
 
 Music and Sounds 
-●	The music should have a relaxed tone from the start.
-●	When his life runs low, it will sound creepy that need some help.
-●	When he gets into the safe place the music should be happy.
+●The music should have a relaxed tone from the start.
+●When his life runs low, it will sound creepy that need some help.
+●When he gets into the safe place the music should be happy.
 
 Technical Description
 This game will be on Mobile Cross-Platform: Android and iO and on the PC.
-●	Controls – pressing the arrow to run and jump.
-●	 Fonts – in the title it should be minecraftia.
-●	Audio / Music – Empty (from the start), 3 of life- Losing Nemo (when running out of life) and Driving Stomp Percussion (for the final) .
+●Controls – pressing the arrow to run and jump.
+●Fonts – in the title it should be minecraftia.
+●Audio / Music – Empty (from the start), 3 of life- Losing Nemo (when running out of life) and Driving Stomp Percussion (for the final) .
 
 
-●	Graphics 
+●Graphics 
 1.	Characters	
 a.	Human (running)
 b.	Virus 
