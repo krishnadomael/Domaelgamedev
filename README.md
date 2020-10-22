@@ -2,6 +2,9 @@
 
 sample video
 
+https://drive.google.com/file/d/1rWV31JqhEwv5bzROvs2h6WBeld9jt1H1/view?usp=sharing
+
+
 Avoid The Virus
 
 ![logo](https://user-images.githubusercontent.com/73186447/96866843-c31e8b80-1420-11eb-90f7-a5fd120d4a5b.png)
@@ -10,46 +13,71 @@ Characters
 
 Bob is the main character in this game. These games are enjoyable because it will keep running and running by not catching the virus. This game will keep running and jumping
 
-●Person will run and jump the virus
+Person will run and jump the virus
+
 ![run1](https://user-images.githubusercontent.com/73186447/96866981-f95c0b00-1420-11eb-91b2-47ff9e4c0f7d.png)
 
 
-●Virus that floats
+Virus that floats
+
 ![VIRUS](https://user-images.githubusercontent.com/73186447/96866925-e0ebf080-1420-11eb-8103-02b83930251b.png)
 
 
-Project Description
+**Project Description**
+
 This game design document describes the Virus that you need to avoid. This game is good for 13+ yrs old, it was just avoiding the virus like in 2020 that we should avoid the virus.
 
 
-Story
+**Story**
+
 This person in this game is jumping the virus to avoid the virus and it has time on how long he can run and jump. So once he gets attached to the virus he will lose.
-Theme
+
+
+**Theme**
+
 This is a game about naughty and hardship. These are the moments where he’s being a naughty by not following the instructions. It also has lessons that you will get in here.
-Gameplay
+
+**Gameplay**
+
 This is a game about naughty and hardship. These are the moments where he’s being a naughty by not following the instructions. It also has lessons that you will get in here.
+
 ●Goals: How long you will avoid the virus.
+
 ●User Skills: Tap the arrow and run and jump.
+
 ●Progression and Challenger: Easy to play because it will keep on running and jump until he gets into the safe place.
+
 ●Losing: The losing conditions are when you get attached to the virus.
 
-Art Style
-This art style looks like a zombie tsunami place. Everything is colorful. After that he will get into the safe house and he will tell everybody to wear those safety 
-things, the background will be much colorful and clear.
 
-Music and Sounds 
+**Art Style**
+
+This art style looks like a zombie tsunami place. Everything is colorful. After that he will get into the safe house and he will tell everybody to wear those safety things, the background will be much colorful and clear.
+
+**Music and Sounds** 
+
 ●The music should have a relaxed tone from the start.
+
 ●When his life runs low, it will sound creepy that need some help.
+
 ●When he gets into the safe place the music should be happy.
 
-Technical Description
+
+**Technical Description**
 This game will be on Mobile Cross-Platform: Android and iO and on the PC.
+
+
 ●Controls – pressing the arrow to run and jump.
+
 ●Fonts – in the title it should be minecraftia.
+
+![minecraftia](https://user-images.githubusercontent.com/73186447/96879468-2219ea00-148d-11eb-9ac7-24e35906c713.png)
+
 ●Audio / Music – Empty (from the start), 3 of life- Losing Nemo (when running out of life) and Driving Stomp Percussion (for the final) .
 
 
-●Graphics 
+**Graphics** 
+
 1.	Characters	
 a.	Human (running)
 b.	Virus 
@@ -66,25 +94,27 @@ d.	Clouds
 4. Others
 e.	Dirt
 
-Background
+**Background**
 
 ![background](https://user-images.githubusercontent.com/73186447/96866867-cb76c680-1420-11eb-8ef0-ce8ce17bc3e5.png)
 
 
-Ground 
+**Ground** 
 
 ![ground](https://user-images.githubusercontent.com/73186447/96866882-d16ca780-1420-11eb-81ac-538928a7fbae.png)
 
-Shield
+**Shield**
 
 ![shield](https://user-images.githubusercontent.com/73186447/96866911-dcbfd300-1420-11eb-91cf-75ec6e6890a2.png)
 
 
-Demographics
+**Demographics**
+
 	The target of this game are 13 – 50 yrs old and in any gender that can play this game and any country. 
 
 
 
-Platforms & Monetization
+**Platforms & Monetization**
+
 	Free android app, iOS and in the PC with in-game ads and  it also has a paid version without ads. 
 	
